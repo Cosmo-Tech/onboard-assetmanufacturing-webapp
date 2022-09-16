@@ -10,7 +10,7 @@ import {
 
 // Power BI embedding mode
 export const USE_POWER_BI_WITH_USER_CREDENTIALS = false;
-export const POWER_BI_WORKSPACE_ID = '290de699-9026-42c0-8c83-e4e87c3f22dd';
+export const POWER_BI_WORKSPACE_ID = '7d96f160-3b7c-404f-b414-31b90c7ba324';
 export const SCENARIO_VIEW_IFRAME_DISPLAY_RATIO = 1580 / 350;
 export const DASHBOARDS_VIEW_IFRAME_DISPLAY_RATIO = 1280 / 795;
 
@@ -27,7 +27,7 @@ const defaultScenarioViewReport = {
     en: 'Scenario dashboard',
     fr: 'Rapport du scenario',
   },
-  reportId: '608b7bef-f5e3-4aae-b8db-19bbb38325d5',
+  reportId: '1455d950-aa87-44a6-b90e-1b31d95a7240',
   settings: {
     navContentPaneEnabled: false,
     panes: {
